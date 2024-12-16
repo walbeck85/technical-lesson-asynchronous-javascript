@@ -38,7 +38,6 @@ You are a developer working on a user management tool for a company. The tool ne
 
 - Open the project in **VSCode**.
 
-- Run `npm install` to install all necessary dependencies.
 
   
 
